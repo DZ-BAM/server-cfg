@@ -1,0 +1,23 @@
+[Unit]
+Description=DayZ Server %i
+After=network-online.target
+Requires=network-online.target
+
+[Service]
+Type=forking
+User=dayz
+Group=dayz
+ExecStart=/usr/bin/dzdsw %i
+ExecStop=/srv/dayz/notify-shutdown 120
+TimeoutStopSec=140
+Restart=on-failure
+# Hardening
+PrivateDevices=true
+ProtectControlGroups=true
+ProtectHome=true
+ProtectKernelTunables=true
+ProtectSystem=full
+RestrictSUIDSGID=true
+
+[Install]
+WantedBy=multi-user.target
