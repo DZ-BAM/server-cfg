@@ -9,7 +9,7 @@ User=dayz
 Group=dayz
 ExecStart=/usr/bin/dzdsw %i
 ExecStop=/usr/local/bin/dayz-notify-shutdown %i 120
-TimeoutStopSec=140
+TimeoutStopSec=130
 Restart=on-failure
 # Hardening
 PrivateDevices=true
