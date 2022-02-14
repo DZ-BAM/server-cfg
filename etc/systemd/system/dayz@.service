@@ -8,7 +8,7 @@ Type=forking
 User=dayz
 Group=dayz
 ExecStart=/usr/bin/dzdsw %i
-ExecStop=/srv/dayz/notify-shutdown 120
+ExecStop=/usr/local/bin/dayz-notify-shutdown %i 120
 TimeoutStopSec=140
 Restart=on-failure
 # Hardening
