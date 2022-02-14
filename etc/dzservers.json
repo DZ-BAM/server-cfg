@@ -1,0 +1,178 @@
+{
+	"dayz": {
+		"appId": 1042420,
+		"basedir": "/srv/dayz",
+		"params": {
+			"profiles": "profiles",
+			"doLogs": false,
+			"adminLog": false,
+			"netLog": false
+		},
+		"mods": [
+			{
+				"id": 1559212036,
+				"name": "Community Framework"
+			},
+			{
+				"id": 1564026768,
+				"name": "Community-Online-Tools"
+			},
+			{
+				"id": 2545327648,
+				"name": "DabsFramework"
+			},
+			{
+				"id": 2458896948,
+				"name": "TraderPlus"
+			},
+			{
+				"id": 1828439124,
+				"name": "VPPAdminTools"
+			},
+			{
+				"id": 2501812949,
+				"name": "Flying Birds!"
+			},
+			{
+				"id": 1560819773,
+				"name": "Unlimited Stamina"
+			},
+			{
+				"id": 2017605880,
+				"name": "zSpawnSelection"
+			},
+			{
+				"id": 1623711988,
+				"name": "VanillaPlusPlusMap"
+			},
+			{
+				"id": 2415195639,
+				"name": "Banov"
+			},
+			{
+				"id": 2444301292,
+				"name": "Care Packages"
+			},
+			{
+				"id": 2303483532,
+				"name": "CarCover"
+			},
+			{
+				"id": 2629595854,
+				"name": "Modular Vest System - Reworked"
+			},
+			{
+				"id": 2225837273,
+				"name": "ClothingInventoryFix"
+			},
+			{
+				"id": 2350401726,
+				"name": "King of the Hill"
+			},
+			{
+				"id": 1832448183,
+				"name": "FlipTransport"
+			},
+			{
+				"id": 2398911445,
+				"name": "Basic Territories"
+			},
+			{
+				"id": 1735947752,
+				"name": "NoVehicleDamage"
+			},
+			{
+				"id": 1854626456,
+				"name": "BuildAnywhere_v3"
+			},
+			{
+				"id": 1646187754,
+				"name": "Code Lock"
+			},
+			{
+				"id": 2512575701,
+				"name": "GunnerTruckOshkosh"
+			},
+			{
+				"id": 1912237302,
+				"name": "IRP-Land-Rover-Defender-110"
+			},
+			{
+				"id": 1932611410,
+				"name": "CannabisPlus"
+			},
+			{
+				"id": 2049002856,
+				"name": "MuchCarKey"
+			},
+			{
+				"id": 1819514788,
+				"name": "Ear-Plugs"
+			},
+			{
+				"id": 1813296260,
+				"name": "CheckIdentity"
+			},
+			{
+				"id": 2155726353,
+				"name": "Mortys Weapons"
+			},
+			{
+				"id": 2425071577,
+				"name": "BodyRemoval"
+			},
+			{
+				"id": 2692979668,
+				"name": "RedFalcon Flight System Heliz"
+			},
+			{
+				"id": 2741527521,
+				"name": "RFFS Heli CarCover Addon"
+			},
+			{
+				"id": 1991570984,
+				"name": "MuchStuffPack"
+			},
+			{
+				"id": 1648967877,
+				"name": "GoreZ"
+			},
+			{
+				"id": 1572541337,
+				"name": "InventoryPlus"
+			},
+			{
+				"id": 1736675168,
+				"name": "Saline Bag+"
+			},
+			{
+				"id": 1999076953,
+				"name": "Notes"
+			},
+			{
+				"id": 2534883520,
+				"name": "SchanaParty"
+			},
+			{
+				"id": 2445549886,
+				"name": "Care Packages VPP Map Markers"
+			},
+			{
+				"id": 2067834152,
+				"name": "SchanaModCompass"
+			},
+			{
+				"id": 2115602332,
+				"name": "SchanaModGlobalChat"
+			},
+			{
+				"id": 2369063255,
+				"name": "CabinZ"
+			},
+			{
+				"id": 2354568600,
+				"name": "RoadTripNG"
+			}
+		]
+	}
+}
