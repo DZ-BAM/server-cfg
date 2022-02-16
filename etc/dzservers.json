@@ -1,12 +1,13 @@
 {
-	"dayz": {
-		"appId": 1042420,
-		"basedir": "/srv/dayz",
+	"BAM": {
+		"appId": 223350,
+		"basedir": "C:\\Program Files\\DayZServer",
 		"params": {
-			"profiles": "profiles",
-			"doLogs": false,
-			"adminLog": false,
-			"netLog": false
+			"profiles": "bam-banov-cfg",
+			"doLogs": true,
+			"adminLog": true,
+			"netLog": true,
+			"port": 2302
 		},
 		"mods": [
 			{
@@ -172,6 +173,10 @@
 			{
 				"id": 2354568600,
 				"name": "RoadTripNG"
+			},
+			{
+				"id": 2264162971,
+				"name": "SimpleAutorun"
 			}
 		]
 	}
