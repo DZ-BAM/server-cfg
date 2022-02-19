@@ -177,6 +177,22 @@
 			{
 				"id": 2264162971,
 				"name": "SimpleAutorun"
+			},
+			{
+				"id": 2458852374,
+				"name": "DisableCarLock"
+			},
+			{
+				"id": 2503521333,
+				"name": "Vanilla++ Tanning & Coloring"
+			},
+			{
+				"id": 1827241477,
+				"name": "Breachingcharge"
+			},
+			{
+				"id": 2464098674,
+				"name": "Breachingcharge Codelock Compatibility"
 			}
 		]
 	}
